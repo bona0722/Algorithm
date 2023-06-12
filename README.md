@@ -9,8 +9,8 @@
 **✨commit Message : [Solve]💯BOJ(문제번호)_(문제명)✨**
 > [Solve]💯BOJ2501_약수구하기
 > [Update]✨README.md
-<!--  -->
-</br>
+
+<br/>
 
 **✨language✨**
 > <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -21,7 +21,7 @@
 # 문제집 진행 상황
 | 번호 | 주제 | 진행도 |
 | :--: | :--: | :--: |
-| 0x03 | [배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md) | ![100%](https://progress-bar.dev/2/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
+| 0x03 | [배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md) | ![100%](https://progress-bar.dev/3/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 | 0x04 | [연결 리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md) | ![100%](https://progress-bar.dev/0/?scale=3&title=progress&width=500&color=babaca&suffix=/3) |
 | 0x05 | [스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md) | ![100%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 | 0x06 | [큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md) | ![100%](https://progress-bar.dev/0/?scale=3&title=progress&width=500&color=babaca&suffix=/3) |
